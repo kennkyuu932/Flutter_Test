@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

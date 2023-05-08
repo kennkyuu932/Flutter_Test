@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cloudwebrtc.flutterwebrtcdemo"
+4    android:versionCode="1"
+5    android:versionName="1.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+10
+11    <!--
+12         The INTERNET permission is required for development. Specifically,
+13         flutter needs it to communicate with the running application
+14         to allow setting breakpoints, to provide hot reload, etc.
+15    -->
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:8:5-66
+16-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:8:22-64
+17
+18    <uses-feature android:name="android.hardware.camera" />
+18-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:9:5-60
+18-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:9:19-57
+19    <uses-feature android:name="android.hardware.camera.autofocus" />
+19-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:10:5-70
+19-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:10:19-67
+20
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:11:5-65
+21-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:11:22-62
+22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+22-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:12:5-71
+22-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:12:22-68
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:13:5-68
+23-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:13:22-65
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:14:5-79
+24-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:14:22-76
+25    <uses-permission
+25-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:15:5-68
+26        android:name="android.permission.BLUETOOTH"
+26-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:15:22-65
+27        android:maxSdkVersion="30" />
+27-->[com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:11:9-35
+28    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+28-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:16:5-79
+28-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:16:22-76
+29    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+29-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:17:5-80
+29-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:17:22-77
+30    <!--
+31     io.flutter.app.FlutterApplication is an android.app.Application that
+32         calls FlutterMain.startInitialization(this); in its onCreate method.
+33         In most cases you can leave this as-is, but you if you want to provide
+34         additional functionality it is fine to subclass or reimplement
+35         FlutterApplication and put your custom class here.
+36    -->
+37    <application
+37-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:24:5-49:19
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:26:9-43
+41        android:label="flutter_webrtc_demo" >
+41-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:25:9-44
+42        <meta-data
+42-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:27:9-29:33
+43            android:name="flutterEmbedding"
+43-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:28:13-44
+44            android:value="2" />
+44-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:29:13-30
+45
+46        <activity
+46-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:30:9-48:20
+47            android:name="io.flutter.embedding.android.FlutterActivity"
+47-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:31:13-72
+48            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+48-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:34:13-137
+49            android:hardwareAccelerated="true"
+49-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:35:13-47
+50            android:launchMode="singleTop"
+50-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:32:13-43
+51            android:theme="@style/LaunchTheme"
+51-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:33:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:36:13-55
+53
+54            <!--
+55                 This keeps the window background of the activity showing
+56                 until Flutter renders its first frame. It can be removed if
+57                 there is no splash screen (such as the default splash screen
+58                 defined in @style/LaunchTheme).
+59            -->
+60            <meta-data
+60-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:41:13-43:40
+61                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+61-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:42:17-82
+62                android:value="true" />
+62-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:43:17-37
+63
+64            <intent-filter>
+64-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:44:13-47:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:45:17-68
+65-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:45:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:46:17-76
+67-->/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:46:27-74
+68            </intent-filter>
+69        </activity>
+70
+71        <uses-library
+71-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+72            android:name="androidx.window.extensions"
+72-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+73            android:required="false" />
+73-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+74        <uses-library
+74-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+75            android:name="androidx.window.sidecar"
+75-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+76            android:required="false" />
+76-->[androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+77    </application>
+78
+79</manifest>

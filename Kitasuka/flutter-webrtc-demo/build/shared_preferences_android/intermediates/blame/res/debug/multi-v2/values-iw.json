@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/shared_preferences_android/intermediates/res/merged/debug/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "/Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/shared_preferences_android/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "/Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

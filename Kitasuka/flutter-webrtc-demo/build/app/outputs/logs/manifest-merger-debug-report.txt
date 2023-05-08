@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from [:shared_preferences_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webrtc] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/flutter_webrtc/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.webrtc-sdk:android:104.5112.07] /Users/kitasuka/.gradle/caches/transforms-3/2e89a05f932011e2148f9437b278cc64/transformed/jetified-android-104.5112.07/AndroidManifest.xml:11:1-14:12
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/0e425fe80e41226eff221433327e2570/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/f0933f04bf768fb8f4ee1a3de5d2b0f8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/8d501d909b1b2782358edf2fa4d61472/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/e83cf8d58703750abcf23693e21d1039/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c8c2e17c3290f7995bee1365fc707f65/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c257bf07ba83838bd37e8089cc4e28cd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kitasuka/.gradle/caches/transforms-3/7356152c69fa7cd29fc6c9af1fa52702/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/61c34ae3677e47a0002f148ffc97a8b8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/983820cc7933282d564d9ab8db01aeda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9e9e0d25eaaa68c59816e8259a628e8b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9f1894f2830d7e18caef2b89d4b25225/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/d3fc7f52040671da8e4ccbbf09b85865/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kitasuka/.gradle/caches/transforms-3/c8b7fcc3744a655cfa70464d884e9664/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kitasuka/.gradle/caches/transforms-3/ca47e6d7b4620cc8d01a0ba9369e04bf/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/8ea7cedd40b196d32f13d2cdda59d100/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:10:19-67
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:9:5-11:38
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:17:5-80
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:12:5-80
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:17:22-77
+application
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:24:5-49:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kitasuka/.gradle/caches/transforms-3/c8b7fcc3744a655cfa70464d884e9664/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kitasuka/.gradle/caches/transforms-3/c8b7fcc3744a655cfa70464d884e9664/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:25:9-44
+	android:icon
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:26:9-43
+meta-data#flutterEmbedding
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:27:9-29:33
+	android:value
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:29:13-30
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:28:13-44
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:30:9-48:20
+	android:launchMode
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:32:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:35:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:36:13-55
+	android:configChanges
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:34:13-137
+	android:theme
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:31:13-72
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:42:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/flutter_webrtc/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/flutter_webrtc/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.webrtc-sdk:android:104.5112.07] /Users/kitasuka/.gradle/caches/transforms-3/2e89a05f932011e2148f9437b278cc64/transformed/jetified-android-104.5112.07/AndroidManifest.xml:13:3-72
+MERGED from [io.github.webrtc-sdk:android:104.5112.07] /Users/kitasuka/.gradle/caches/transforms-3/2e89a05f932011e2148f9437b278cc64/transformed/jetified-android-104.5112.07/AndroidManifest.xml:13:3-72
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /Users/kitasuka/.gradle/caches/transforms-3/99362d025db31c835ee3ccd74afc4d8e/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/0e425fe80e41226eff221433327e2570/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/0e425fe80e41226eff221433327e2570/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/f0933f04bf768fb8f4ee1a3de5d2b0f8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/f0933f04bf768fb8f4ee1a3de5d2b0f8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/8d501d909b1b2782358edf2fa4d61472/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/8d501d909b1b2782358edf2fa4d61472/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/e83cf8d58703750abcf23693e21d1039/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/e83cf8d58703750abcf23693e21d1039/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c8c2e17c3290f7995bee1365fc707f65/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c8c2e17c3290f7995bee1365fc707f65/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c257bf07ba83838bd37e8089cc4e28cd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/c257bf07ba83838bd37e8089cc4e28cd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/kitasuka/.gradle/caches/transforms-3/f2a5b5d1df049e642ca7069df2a13f2f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kitasuka/.gradle/caches/transforms-3/7356152c69fa7cd29fc6c9af1fa52702/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kitasuka/.gradle/caches/transforms-3/7356152c69fa7cd29fc6c9af1fa52702/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/61c34ae3677e47a0002f148ffc97a8b8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/61c34ae3677e47a0002f148ffc97a8b8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/983820cc7933282d564d9ab8db01aeda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/983820cc7933282d564d9ab8db01aeda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9e9e0d25eaaa68c59816e8259a628e8b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9e9e0d25eaaa68c59816e8259a628e8b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9f1894f2830d7e18caef2b89d4b25225/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kitasuka/.gradle/caches/transforms-3/9f1894f2830d7e18caef2b89d4b25225/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/d3fc7f52040671da8e4ccbbf09b85865/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kitasuka/.gradle/caches/transforms-3/d3fc7f52040671da8e4ccbbf09b85865/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kitasuka/.gradle/caches/transforms-3/c8b7fcc3744a655cfa70464d884e9664/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kitasuka/.gradle/caches/transforms-3/c8b7fcc3744a655cfa70464d884e9664/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kitasuka/.gradle/caches/transforms-3/ca47e6d7b4620cc8d01a0ba9369e04bf/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kitasuka/.gradle/caches/transforms-3/ca47e6d7b4620cc8d01a0ba9369e04bf/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/8ea7cedd40b196d32f13d2cdda59d100/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kitasuka/.gradle/caches/transforms-3/8ea7cedd40b196d32f13d2cdda59d100/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kitasuka/Library/CloudStorage/OneDrive-HiroshimaUniversity/2023/1kitasuka/Android/flutter-webrtc-demo/android/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/kitasuka/.gradle/caches/transforms-3/4b877be982a9fe4aa3a140baeb2bcbb0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
