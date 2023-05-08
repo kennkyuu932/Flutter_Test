@@ -1,0 +1,15 @@
+com.cloudwebrtc.flutterwebrtcdemo.app-jetified-annotation-experimental-1.1.0-0 C:\Users\fcs_tai\.gradle\caches\transforms-3\203debc3fca0502984fa62fae6994c46\transformed\jetified-annotation-experimental-1.1.0\res
+com.cloudwebrtc.flutterwebrtcdemo.app-core-1.6.0-1 C:\Users\fcs_tai\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\res
+com.cloudwebrtc.flutterwebrtcdemo.app-jetified-window-1.0.0-beta04-2 C:\Users\fcs_tai\.gradle\caches\transforms-3\a4f902a70a0ac891a6fa068be6866446\transformed\jetified-window-1.0.0-beta04\res
+com.cloudwebrtc.flutterwebrtcdemo.app-jetified-window-java-1.0.0-beta04-3 C:\Users\fcs_tai\.gradle\caches\transforms-3\f01d600dad128af9f0fc5b3f69f1ac4b\transformed\jetified-window-java-1.0.0-beta04\res
+com.cloudwebrtc.flutterwebrtcdemo.app-debug-4 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\android\app\src\debug\res
+com.cloudwebrtc.flutterwebrtcdemo.app-main-5 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\android\app\src\main\res
+com.cloudwebrtc.flutterwebrtcdemo.app-pngs-6 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\generated\res\pngs\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-resValues-7 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\generated\res\resValues\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-rs-8 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\generated\res\rs\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-mergeDebugResources-9 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.cloudwebrtc.flutterwebrtcdemo.app-mergeDebugResources-10 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.cloudwebrtc.flutterwebrtcdemo.app-merged_res-11 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\app\intermediates\merged_res\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-packaged_res-12 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\flutter_webrtc\intermediates\packaged_res\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-packaged_res-13 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\path_provider_android\intermediates\packaged_res\debug
+com.cloudwebrtc.flutterwebrtcdemo.app-packaged_res-14 C:\Users\fcs_tai\StudioProjects\flutter-webrtc-demo2\build\shared_preferences_android\intermediates\packaged_res\debug
