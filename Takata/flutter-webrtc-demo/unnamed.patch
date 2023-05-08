@@ -1,0 +1,59 @@
+Index: android/app/build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/android/app/build.gradle b/android/app/build.gradle
+--- a/android/app/build.gradle	(revision d7db154e18cc61e1d74ff1c139fc438813489518)
++++ b/android/app/build.gradle	(date 1682317169453)
+@@ -25,7 +25,7 @@
+ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+ 
+ android {
+-    compileSdkVersion 28
++    compileSdkVersion 33
+     ndkVersion "21.4.7075529"
+ 
+     lintOptions {
+@@ -52,7 +52,7 @@
+             // TODO: Add your own signing config for the release build.
+             // Signing with the debug keys for now, so `flutter run --release` works.
+             signingConfig signingConfigs.debug
+-            useProguard true
++            minifyEnabled true
+             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+         }
+     }
+Index: android/build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/android/build.gradle b/android/build.gradle
+--- a/android/build.gradle	(revision d7db154e18cc61e1d74ff1c139fc438813489518)
++++ b/android/build.gradle	(date 1682316839277)
+@@ -5,7 +5,7 @@
+     }
+ 
+     dependencies {
+-        classpath 'com.android.tools.build:gradle:4.0.0'
++        classpath 'com.android.tools.build:gradle:7.4.1'
+     }
+ }
+ 
+Index: android/gradle/wrapper/gradle-wrapper.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/android/gradle/wrapper/gradle-wrapper.properties b/android/gradle/wrapper/gradle-wrapper.properties
+--- a/android/gradle/wrapper/gradle-wrapper.properties	(revision d7db154e18cc61e1d74ff1c139fc438813489518)
++++ b/android/gradle/wrapper/gradle-wrapper.properties	(date 1682316983849)
+@@ -1,6 +1,5 @@
+-#Sun Jul 05 17:31:51 EDT 2020
+ distributionBase=GRADLE_USER_HOME
+ distributionPath=wrapper/dists
++distributionUrl=https\://services.gradle.org/distributions/gradle-7.5-all.zip
+ zipStoreBase=GRADLE_USER_HOME
+ zipStorePath=wrapper/dists
+-distributionUrl=https\://services.gradle.org/distributions/gradle-6.8.3-all.zip
