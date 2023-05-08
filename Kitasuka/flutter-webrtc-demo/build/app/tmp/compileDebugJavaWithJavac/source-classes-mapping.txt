@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cloudwebrtc/flutterwebrtcdemo/MainActivity.java
+ com.cloudwebrtc.flutterwebrtcdemo.MainActivity
+com/cloudwebrtc/flutterwebrtcdemo/BuildConfig.java
+ com.cloudwebrtc.flutterwebrtcdemo.BuildConfig
