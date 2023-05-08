@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cloudwebrtc.flutterwebrtcdemo.app-mergeDebugResources-9:/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fcs_tai\\.gradle\\caches\\transforms-3\\479dd4bb6612b7cfbdde7fd13a3daa5e\\transformed\\core-1.6.0\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
